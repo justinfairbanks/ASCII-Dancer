@@ -1,5 +1,6 @@
 # ASCII-Dancer
-IEEExtreme Programming Task to make a stick figure do the Hokus Pokus
+IEEExtreme Programming Task to make a stick figure do the Hokus Pokus.
+
 All code writen in source.cpp file
 
 First input is to enter the number of sets of commands followed by the number of commands in that set. For example, '1 2' would let you input two commands.
